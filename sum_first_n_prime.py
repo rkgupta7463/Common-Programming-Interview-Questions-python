@@ -8,7 +8,6 @@ count = 0
 num = 2
 n=3
 
-# Loop until the count reaches N
 while count < n:
 
     # Check if the number is prime
